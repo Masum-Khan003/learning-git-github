@@ -1,3 +1,4 @@
-// I;m  from Master
 
-alert('Hello World');
+// I;m  from Master
+console.log ('Hello World');
+
